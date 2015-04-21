@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='mdx_anchors_away',
-    version='1.0.0',
+    version='1.0.1',
     description='Add anchor tags and icons to all headers',
     author='Marco Ceppi',
     author_email='marco@ceppi.net',
